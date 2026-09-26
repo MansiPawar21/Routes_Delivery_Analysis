@@ -5,7 +5,7 @@
 ### ▶️ Recorded Project Video
 
 **🔗 Video Link:**  
-[**Click Here to Watch the Project Demonstration**](PASTE_YOUR_VIDEO_LINK_HERE)
+[**Click Here to Watch the Project Demonstration**](https://drive.google.com/file/d/1-re3r1A26p7rCILDzKT6dZpXWngcqMqP/view?usp=sharing)
 
 > **Note:** Replace `PASTE_YOUR_VIDEO_LINK_HERE` with the link to your recorded project video.
 >
